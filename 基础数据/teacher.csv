@@ -1,0 +1,8 @@
+#,teacher_id,name,gender,phone_number,email,password,college_id
+1,1,王小明,男,1234567890,t1@example.com,wangxiaoming1,1
+2,2,李红,女,9876543210,t2@example.com,lihong2,2
+3,3,张伟,男,1111111111,t3@example.com,zhangwei3,3
+4,4,刘芳,女,2222222222,t4@example.com,liufang4,4
+5,5,陈建华,男,3333333333,t5@example.com,chenjianhua5,5
+6,6,杨丽,女,4444444444,t6@example.com,yangli6,6
+7,7,赵健,男,5555555555,t7@example.com,zhaojian7,1

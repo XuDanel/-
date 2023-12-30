@@ -1,0 +1,47 @@
+question_id,assignment_id,question_text
+1,1,What is the capital of France?
+15,1,Mount Everest is the highest mountain in the world.
+2,2,Which of the following are mammals?
+3,3,The sun rises in the west.
+4,4,"Who wrote the novel ""Pride and Prejudice""?"
+5,5,"Match the country with its capital:
+A. Germany
+B. Japan
+C. Brazil
+D. Australia"
+6,6,Discuss the impact of climate change on the environment.
+13,6,The largest ocean in the world is the __________ Ocean.
+8,7,What is the largest planet in our solar system?
+9,8,Albert Einstein discovered the theory of relativity.
+10,9,Who painted the Mona Lisa?
+18,9,Discuss the impact of social media on society.
+11,10,"Match the artist with their famous artwork:
+A. Vincent van Gogh
+B. Leonardo da Vinci
+C. Pablo Picasso"
+19,10,The currency of Japan is the __________.
+12,11,Discuss the causes and consequences of World War II.
+22,12,"Who is the main character in ""The Great Gatsby""?"
+23,12,"Match the scientist with their contribution:
+A. Isaac Newton
+B. Marie Curie
+C. Albert Einstein"
+24,12,Discuss the pros and cons of renewable energy sources.
+25,12,The largest desert in the world is the __________.
+16,14,"Who is the author of ""To Kill a Mockingbird""?"
+17,14,"Match the actor with their famous role:
+A. Tom Hanks
+B. Meryl Streep
+C. Leonardo DiCaprio"
+7,15,The capital of China is __________.
+14,15,What is the chemical symbol for gold?
+30,15,Discuss the impact of globalization on the economy.
+20,16,What is the largest organ in the human body?
+21,17,The Great Wall of China is visible from space.
+26,17,What is the chemical symbol for oxygen?
+27,18,The Earth is flat.
+28,18,"Who is the playwright of ""Romeo and Juliet""?"
+29,20,"Match the composer with their famous composition:
+A. Ludwig van Beethoven
+B. Wolfgang Amadeus Mozart
+C. Johann Sebastian Bach"

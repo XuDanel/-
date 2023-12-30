@@ -1,0 +1,61 @@
+question_id,question_type,question_text,creator_id,answer,score
+1,choice,What is the capital of France?,1,Paris,100.00
+2,multiple_choice,Which of the following are mammals?,2,"A. Dog
+B. Snake
+C. Cat
+D. Fish",100.00
+3,true_or_false,The sun rises in the west.,3,False,100.00
+4,short_answer,"Who wrote the novel ""Pride and Prejudice""?",4,Jane Austen,100.00
+5,matching,"Match the country with its capital:
+A. Germany
+B. Japan
+C. Brazil
+D. Australia",5,"1. Tokyo
+2. Berlin
+3. Brasília
+4. Canberra",100.00
+6,essay,Discuss the impact of climate change on the environment.,6,...,100.00
+7,fill_in_the_blank,The capital of China is __________.,7,Beijing,100.00
+8,choice,What is the largest planet in our solar system?,1,Jupiter,100.00
+9,true_or_false,Albert Einstein discovered the theory of relativity.,2,True,100.00
+10,short_answer,Who painted the Mona Lisa?,3,Leonardo da Vinci,100.00
+11,matching,"Match the artist with their famous artwork:
+A. Vincent van Gogh
+B. Leonardo da Vinci
+C. Pablo Picasso",4,"1. The Starry Night
+2. Mona Lisa
+3. Guernica",100.00
+12,essay,Discuss the causes and consequences of World War II.,5,...,100.00
+13,fill_in_the_blank,The largest ocean in the world is the __________ Ocean.,6,Pacific,100.00
+14,choice,What is the chemical symbol for gold?,7,Au,100.00
+15,true_or_false,Mount Everest is the highest mountain in the world.,1,True,100.00
+16,short_answer,"Who is the author of ""To Kill a Mockingbird""?",2,Harper Lee,100.00
+17,matching,"Match the actor with their famous role:
+A. Tom Hanks
+B. Meryl Streep
+C. Leonardo DiCaprio",2,"1. Forrest Gump
+2. The Devil Wears Prada
+3. Titanic",100.00
+18,essay,Discuss the impact of social media on society.,3,...,100.00
+19,fill_in_the_blank,The currency of Japan is the __________.,4,Yen,100.00
+20,choice,What is the largest organ in the human body?,4,Skin,100.00
+21,true_or_false,The Great Wall of China is visible from space.,5,False,100.00
+22,short_answer,"Who is the main character in ""The Great Gatsby""?",6,Jay Gatsby,100.00
+23,matching,"Match the scientist with their contribution:
+A. Isaac Newton
+B. Marie Curie
+C. Albert Einstein",6,"1. Theory of General Relativity
+2. Laws of Motion
+3. Radioactivity",100.00
+24,essay,Discuss the pros and cons of renewable energy sources.,6,...,100.00
+25,fill_in_the_blank,The largest desert in the world is the __________.,6,Sahara,100.00
+26,choice,What is the chemical symbol for oxygen?,5,O,100.00
+27,true_or_false,The Earth is flat.,6,False,100.00
+28,short_answer,"Who is the playwright of ""Romeo and Juliet""?",6,William Shakespeare,100.00
+29,matching,"Match the composer with their famous composition:
+A. Ludwig van Beethoven
+B. Wolfgang Amadeus Mozart
+C. Johann Sebastian Bach",2,"1. Symphony No. 5
+2. The Magic Flute
+3. Brandenburg Concertos",100.00
+30,essay,Discuss the impact of globalization on the economy.,7,...,100.00

@@ -1,0 +1,21 @@
+material_id,course_id,title,uploader_id,content,visibility
+1,1,Introduction to Computer Networks,1,Content 1,Public
+2,2,Linear Algebra and Its Applications,2,Content 2,Public
+3,3,Quantum Mechanics,3,Content 3,Public
+4,4,Chinese Grammar and Vocabulary,4,Content 4,Public
+5,5,Organic Chemistry,5,Content 5,Public
+6,6,Introduction to Music Theory,6,Content 6,Public
+7,1,Data Structures and Algorithms in C++,2,Content 7,Public
+8,2,Discrete Mathematics,3,Content 8,Public
+9,3,Classical Mechanics,4,Content 9,Public
+10,4,Chinese Calligraphy,5,Content 10,Public
+11,5,Inorganic Chemistry,6,Content 11,Public
+12,6,Introduction to Music Production,7,Content 12,Public
+13,1,Web Development,3,Content 13,Public
+14,2,Probability and Statistics,4,Content 14,Public
+15,3,Electromagnetism,5,Content 15,Public
+16,4,Chinese Literature,6,Content 16,Public
+17,5,Analytical Chemistry,7,Content 17,Public
+18,6,History of Western Music,1,Content 18,Public
+19,1,Machine Learning,4,Content 19,Public
+20,2,Concepts and Methods,5,Content 20,Public
